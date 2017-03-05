@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value = "weather"></dbname>
+    <version value = "2"/>
+    <list>
+        <mapping class = "com.it.zzb.niceweather.db.Province"/>
+        <mapping class = "com.it.zzb.niceweather.db.City"/>
+        <mapping class = "com.it.zzb.niceweather.db.County"/>
+
+    </list>
+</litepal>
