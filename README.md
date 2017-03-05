@@ -1,5 +1,6 @@
 # NiceWeather
 
+
 ##little weather 
 
 *   hefeng_weather api
@@ -7,15 +8,27 @@
 *   CardView+ListView
 
 
+*     使用到的库有
+	* okhttp
+ 
+	* glide
+
+	* gson
+
+  
+*    bing 每日一图
 
 
 
+![image](https://github.com/pugongyingbo/NiceWeather/raw/master/Screenshot/weather1.png)
 
 
+![image](https://github.com/pugongyingbo/NiceWeather/raw/master/Screenshot/weather2.png)
 
 
+##  about me 
 
-##有问题反馈  
-在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 
-* 邮件(pugongyingbo@163.com)
+* pugongyingbo@163.com
+
+* a student in tjpu
